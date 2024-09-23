@@ -1,0 +1,80 @@
+{
+    "imdb": {
+        "type": "Sentiment Class",
+        "labelsInt": [
+            0,
+            1
+        ],
+        "labelStr": [
+            "Negative",
+            "Positive"
+        ]
+    },
+    "youtube": {
+        "type": "Spam Class",
+        "labelsInt": [
+            0,
+            1
+        ],
+        "labelStr": [
+            "HAM",
+            "SPAM"
+        ]
+    },
+    "agnews": {
+        "type": "Topic Class",
+        "labelsInt": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "labelStr": [
+            "World",
+            "Sports",
+            "Business",
+            "Sci/Tech"
+        ]
+    },
+    "trec": {
+        "type": "Question Class",
+        "labelsInt": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "labelStr": [
+            "DESC",
+            "ENTY",
+            "HUM",
+            "ABBR",
+            "LOC",
+            "NUM"
+        ]
+    },
+    "sms": {
+        "type": "Spam Class",
+        "labelsInt": [
+            0,
+            1
+        ],
+        "labelStr": [
+            "HAM",
+            "SPAM"
+        ]
+    },
+    "Yelp": {
+        "type": "Sentiment Class",
+        "labelsInt": [
+            0,
+            1
+        ],
+        "labelStr": [
+            "Negative",
+            "Positive"
+        ]
+    }
+}
